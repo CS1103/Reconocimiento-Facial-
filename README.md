@@ -6,7 +6,7 @@
 - Ricardo Amiel Acuña Villogas
 - Enzo Sebastián Gómez Villegas
 - Matías Castillo Quincho
-- Renzo UTEC
+- Renzo Alfonso Acervo Correa
 - Mateo Espinoza Monti
 
 ## Descripción del proyecto
