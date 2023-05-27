@@ -8,6 +8,7 @@
 - Matías Castillo Quincho
 - Renzo Alfonso Acervo Correa
 - Mateo Espinoza Monti
+- Dickson Marcelo Azalde Lazo
 
 ## Descripción del proyecto
 <p align="justify">
