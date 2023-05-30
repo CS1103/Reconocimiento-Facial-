@@ -43,7 +43,8 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 
 4. TensorFlow
 
-##Fuentes
+
+###Fuentes
 
 1. https://medium.com/metadatos/todo-lo-que-necesitas-saber-sobre-el-descenso-del-gradiente-aplicado-a-redes-neuronales-19bdbb706a78
 2. https://idus.us.es/bitstream/handle/11441/85086/TFG-1975-JIMENEZ.pdf?sequence=1&isAllowed=y
