@@ -35,6 +35,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 
 
 ## Librerías a aplicar
+<p>
 1. Flask
 
 2. SQLAlchemy
@@ -42,7 +43,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 3. UUID
 
 4. TensorFlow
-
+</p>
 
 ###Fuentes
 
