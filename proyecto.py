@@ -4,7 +4,7 @@ import uuid
 #import tensorflow as tf
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database_db.db'
 db = SQLAlchemy(app)
 #model = tf.keras.models.load_model('model.h5')
 
