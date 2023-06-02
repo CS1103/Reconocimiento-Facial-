@@ -1,1 +1,93 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="UTF-8">
+    <title>Reconocimiento Facial Emocional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            padding: 20px;
+            color: #fff;
+            text-align: center;
+        }
+        
+        h1 {
+            margin: 0;
+        }
+        
+        main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 80vh;
+        }
+        
+        #video-container {
+            position: relative;
+            border: 2px solid #ccc;
+            padding: 10px;
+        }
+        
+        #video-feed,#canvas {
+            width: 100%;
+            max-width: 400px;
+            border: 1px solid #ccc;
+        }
+        
+        #emotions-container {
+            margin-left: 20px;
+        }
+        
+        h2 {
+            margin-top: 0;
+        }
+        
+        #emotions-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        footer {
+            background-color: #333;
+            padding: 10px;
+            color: #fff;
+            text-align: center;
+        }
+        
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body bgcolor="lightblue">
+    <header>
+        <h1>Reconocimiento Facial Emocional</h1>
+    </header>
+
+    <main>
+        <div id="video-container">
+            <video id="video-feed" autoplay></video>
+            <canvas id="canvas"></canvas>
+        </div>
+        <div id="emotions-container">
+            <h2>Emociones Detectadas:</h2>
+            <ul id="emotions-list"></ul>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 - Reconocimiento Facial Grupo 2</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
