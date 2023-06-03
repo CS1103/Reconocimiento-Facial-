@@ -33,6 +33,17 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     Buscamos aprovechar a lo máximo el uso de las redes neuronales y así innovar con el algoritmo implementado. De esta manera, poder ofrecer una tecnología muy eficaz a aquellos que la adquieran. El uso de nuestro proyecto será ventajoso en el manejo de registros tanto en asistencia como la fecha de horario y salida.
 </p>
 
+### Planificación del proyecto
+<p align="justify">
+    Este estará divido en 7 puntos distintos, en los cuales se realizará este proyecto:
+        1. [Completar]
+        2. [Completar]
+        3. [Completar]
+        4. [Completar]
+        5. [Completar]
+        6. [Completar]
+        7. [Completar]
+</p>
 
 ## Librerías a aplicar
 
