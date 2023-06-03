@@ -36,6 +36,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 ### Planificación del proyecto
 <p align="justify">
     Este estará divido en 7 puntos distintos, en los cuales se realizará este proyecto:
+    
         1. [Completar]
     
         2. [Completar]
