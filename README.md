@@ -54,3 +54,16 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 3. UUID
 
 4. TensorFlow
+
+## Despegar Web (Temporal)
+<p align="justify">
+    
+    1. Debemos crear nuestro ambiente virtual para correr en nuestra máquina, instalamos el módulo 'pip install virtualenv'. Luego creamos el entorno desde nuestra terminal 'python3 -m denv env', el nombre de nuestro entorno virtual será env. Finalmente la activamos con el siguiente comando en nuestro terminal 'env\Scripts\Activate'.
+    
+    2. A continuación por ahora instalamos los módulos correspondientes con el siguiente comando en la terminal 'pip install -r requirements.txt'.
+    
+    3. Ingresamos a nuestro postgresql por terminal en nuestro VSCODE mediante el comando: 'psql -U postgres'.
+    
+    4. Creamos nuestra base de datos llamada 'database_db', utilizando el comando 'CREATE DATABASE database_db;', luego conectamos nuestra tabla.
+    
+    5. Finalmente corremos el programa principal 'flask -app proyecto.py run'
