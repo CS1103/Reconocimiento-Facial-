@@ -42,7 +42,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
         4. [Completar]
         5. [Completar]
         6. [Completar]
-        7. [Completar]
+        7. [Completar] 
 </p>
 
 ## Librerías a aplicar
