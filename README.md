@@ -55,4 +55,4 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     
     4. Creamos nuestra base de datos llamada 'database_db', utilizando el comando 'CREATE DATABASE database_db;', luego conectamos nuestra tabla.
     
-    5. Finalmente corremos el programa principal 'python3 proyecto.py
+    5. Finalmente corremos el programa principal 'flask -app proyecto.py run'
