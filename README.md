@@ -37,11 +37,17 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 <p align="justify">
     Este estará divido en 7 puntos distintos, en los cuales se realizará este proyecto:
         1. [Completar]
+    
         2. [Completar]
+    
         3. [Completar]
+    
         4. [Completar]
+    
         5. [Completar]
+    
         6. [Completar]
+    
         7. [Completar] 
 </p>
 
