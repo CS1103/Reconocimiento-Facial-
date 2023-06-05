@@ -10,7 +10,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 </p>
 
 
-## **Objetivos y características principales**
+## :pushpin: **Objetivos y características principales**
 ### Objetivos
 <p align="justify">
     Un mejor registro en el horario de nuestro personal será un punto benificioso en la comodidad de ellos. La empresa que evaluaremmos tiene un registro de horario de ingreso y salida a papel, usted firma y registra su horario de entrada y salida en la hoja de trabajo de cada día, con nuestro algoritmo implementado se reducirá eso tiempo con tan solo mostrar tu imagen facial. Además de ello, la interacción entre cliente - aplicación web se plantea ser amigable y productiva para el trabajador.
@@ -27,7 +27,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     Buscamos aprovechar a lo máximo el uso de las redes neuronales y así innovar con el algoritmo implementado. De esta manera, poder ofrecer una tecnología muy eficaz a aquellos que la adquieran. El uso de nuestro proyecto será ventajoso en el manejo de registros tanto en asistencia como la fecha de horario y salida.
 </p>
 
-### Planificación del proyecto
+### :calendar: Planificación del proyecto
 <p align="justify">
     Este estará divido en 7 puntos distintos, en los cuales se realizará este proyecto:
     
@@ -46,7 +46,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
         7. Nuestro algoritmo funcionará correctamente, se procederá a comenzar con las grabaciones del video, basados en un guió, además se realizará el informe respectivo.
 </p>
 
-## Librerías a aplicar
+## :file_folder: Librerías a aplicar
 
 1. Flask
 
@@ -56,7 +56,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 
 4. TensorFlow
 
-## Despegar Web (Temporal)
+## :rocket: Despegar Web (Temporal)
 <p align="justify">
     
     1. Debemos crear nuestro ambiente virtual para correr en nuestra máquina, instalamos el módulo 'pip install virtualenv'. Luego creamos el entorno desde nuestra terminal 'python3 -m denv env', el nombre de nuestro entorno virtual será env. Finalmente la activamos con el siguiente comando en nuestro terminal 'env\Scripts\Activate'.
@@ -69,23 +69,23 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     
     5. Finalmente corremos el programa principal 'flask -app proyecto.py run'
     
-## Requisitos
-# [Completar]
+## :computer: Requisitos
+# []
     
-## Guía de instalación
-# [Completar]
+## :wrench: Guía de instalación
+# []
     
-## Instrucciones o reglas de uso
- # [Completar]
+## :page_facing_up: Instrucciones o reglas de uso
+ # []
 
 ## Licencia De Uso
-# [Completar]
+# []
     
-## Diagramas
-# [Completar]
+## :bar_chart: Diagramas
+# []
     
-## Link del video
-# [Completar]
+## :yt: Link del video
+# []
     
 ## Grupo 2
 - Ricardo Amiel Acuña Villogas
