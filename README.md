@@ -1,6 +1,6 @@
 # **Reconocimiento facial mediante emociones para registrar el horario de entrada y salida del personal.**
 
-<img src="https://setronics.net/wp-content/uploads/2020/04/biface.gif">
+<img src="[https://setronics.net/wp-content/uploads/2020/04/biface.gif](https://github.com/CS1103/proyecto-final---te02---202301-pf0220231-grupo2/blob/main/Face-guard.png)">
 
 
 ## Descripción del proyecto
