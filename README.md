@@ -2,13 +2,6 @@
 
 <img src="https://setronics.net/wp-content/uploads/2020/04/biface.gif">
 
-## Grupo 2
-- Ricardo Amiel Acuña Villogas
-- Enzo Sebastián Gómez Villegas
-- Matías Castillo Quincho
-- Renzo Alfonso Acervo Correa
-- Mateo Espinoza Monti
-- Dickson Marcelo Azalde Lazo
 
 ## Descripción del proyecto
 <p align="justify">
@@ -74,3 +67,35 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     4. Creamos nuestra base de datos llamada 'database_db', utilizando el comando 'CREATE DATABASE database_db;', luego conectamos nuestra tabla.
     
     5. Finalmente corremos el programa principal 'flask -app proyecto.py run'
+    
+## Requisitos
+# [Completar]
+    
+## Guía de instalación
+# [Completar]
+    
+## Instrucciones o reglas de uso
+ # [Completar]
+
+## Licencia De Uso
+# [Completar]
+    
+## Diagramas
+# [Completar]
+    
+## Link del video
+# [Completar]
+    
+## Grupo 2
+- Ricardo Amiel Acuña Villogas
+- Enzo Sebastián Gómez Villegas
+- Matías Castillo Quincho
+- Renzo Alfonso Acervo Correa
+- Mateo Espinoza Monti
+- Dickson Marcelo Azalde Lazo
+    
+    
+    
+
+
+
