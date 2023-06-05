@@ -56,6 +56,8 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 
 4. TensorFlow
 
+5. OpenCV
+
 ## :rocket: Despegar Web (Temporal)
 <p align="justify">
     
@@ -70,10 +72,18 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     5. Finalmente corremos el programa principal 'flask -app proyecto.py run'
     
 ## :computer: Requisitos
-# []
+• Compilador de C++: Que soporte la versión C++17 o superior.
+• Administrador de código fuente: CMake versión 3.10 o superior.
+• Sistema Operativo: MS Windows, OS Mac o Linux.
     
 ## :wrench: Guía de instalación
-# []
+# Para realizar la respectiva instalación, necesitamos tener activo nuestro virtual environmen , si no tienes instalado realiza lo siguiente:
+
+1. Crea tu env con el siguiente código: py -m venv env, si posees env en tu IDE selecciona en la esquina inferior derecha en el selector de lenguaje el env.
+2. Activa la ruta de tu env en la terminal con el siguiente código: .\env\Scripts\activate
+3. Ahora procederás a actualizar tu pip a la última versión (si es necesario) con el siguiente código: python.exe -m pip install --upgrade pip
+4. Procede a instalar todas las librerías.
+5. Para correr el programa, usarás el código con flask para conectarte al servidor: flask --app proyecto.py run
     
 ## :page_facing_up: Instrucciones o reglas de uso
  # []
