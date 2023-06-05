@@ -41,9 +41,9 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     
         5. OpenCV funciona como un detector facial, y es a tiempo real, con ayuda de TensorFlow no solo funcionará con imágenes, sino también con la cámara web del dispositvo.
     
-        6. [Completar]
+        6. Por último, UUID generará un identificador (id) para cada persona que esté registrada en nuestra base de datos (mediante los patrones de su rostro).
     
-        7. [Completar] 
+        7. Nuestro algoritmo funcionará correctamente, se procederá a comenzar con las grabaciones del video, basados en un guió, además se realizará el informe respectivo.
 </p>
 
 ## Librerías a aplicar
