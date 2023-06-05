@@ -37,7 +37,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     
         3. Nuestro archivo algoritmo.cpp ocupará las librerías UUID , openCV y TensorFlow para entrenar nuestro algoritmo, ambos trabajarán en conjunto y harán uso de Convolutional Neural Networks (CNN). 
     
-        4. [Completar]
+        4. TensorFlow recibirá todos los datos de entrenamiento (imágenes tanto de personas que deseemos reconocer y cada una con el gesto que indica una emoción).
     
         5. [Completar]
     
@@ -93,7 +93,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 - Matías Castillo Quincho
 - Renzo Alfonso Acervo Correa
 - Mateo Espinoza Monti
-- Dickson Marcelo Azalde Lazo
+- Dicson Marcelo Azalde Lazo
     
     
     
