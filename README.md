@@ -73,7 +73,9 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     
 ## :computer: Requisitos
 • Compilador de C++: Que soporte la versión C++17 o superior.
+    
 • Administrador de código fuente: CMake versión 3.10 o superior.
+    
 • Sistema Operativo: MS Windows, OS Mac o Linux.
     
 ## :wrench: Guía de instalación
