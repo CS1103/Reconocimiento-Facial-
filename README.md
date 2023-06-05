@@ -31,19 +31,19 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 <p align="justify">
     Este estará divido en 7 puntos distintos, en los cuales se realizará este proyecto:
     
-        1. Uso de las librerías FLASK y FLASK-SQLALCHEMY en python, para poder conectarnos al servidor desde nuestro kocalchost y guardar todos los datos en nuestra base de datos (carpeta instance).
+        1. Uso de las librerías FLASK y FLASK-SQLALCHEMY en python, para poder conectarnos al servidor desde nuestro kocalchost y guardar todos los datos en nuestra base de datos (carpeta instance). [HECHO]
     
-        2. Creación del interfaz html, será el index de nuestro proyecto. Uso de css para crear un index llamativo (carpeta templates). El archivo script.js se encargará de mostrar la cámara del dipositivo por el cual se            reconocerá las emociones mediante nuestro algoritmo.
+        2. Creación del interfaz html, será el index de nuestro proyecto. Uso de css para crear un index llamativo (carpeta templates). El archivo script.js se encargará de mostrar la cámara del dipositivo por el cual se            reconocerá las emociones mediante nuestro algoritmo. [FALTA script.js]
     
-        3. Nuestro archivo algoritmo.cpp ocupará las librerías UUID , openCV y TensorFlow para entrenar nuestro algoritmo, ambos trabajarán en conjunto y harán uso de Convolutional Neural Networks (CNN). 
+        3. Nuestro archivo algoritmo.cpp ocupará las librerías UUID , openCV y TensorFlow para entrenar nuestro algoritmo, ambos trabajarán en conjunto y harán uso de Convolutional Neural Networks (CNN).  [HECHO]
     
-        4. TensorFlow recibirá todos los datos de entrenamiento (imágenes tanto de personas que deseemos reconocer y cada una con el gesto que indica una emoción).
+        4. TensorFlow recibirá todos los datos de entrenamiento (imágenes tanto de personas que deseemos reconocer y cada una con el gesto que indica una emoción). [FALTA]
     
-        5. OpenCV funciona como un detector facial, y es a tiempo real, con ayuda de TensorFlow no solo funcionará con imágenes, sino también con la cámara web del dispositvo.
+        5. OpenCV funciona como un detector facial, y es a tiempo real, con ayuda de TensorFlow no solo funcionará con imágenes, sino también con la cámara web del dispositvo. [FALTA]
     
-        6. Por último, UUID generará un identificador (id) para cada persona que esté registrada en nuestra base de datos (mediante los patrones de su rostro).
+        6. Por último, UUID generará un identificador (id) para cada persona que esté registrada en nuestra base de datos (mediante los patrones de su rostro). [FALTA]
     
-        7. Nuestro algoritmo funcionará correctamente, se procederá a comenzar con las grabaciones del video, basados en un guió, además se realizará el informe respectivo.
+        7. Nuestro algoritmo funcionará correctamente, se procederá a comenzar con las grabaciones del video, basados en un guió, además se realizará el informe respectivo. [FALTA]
 </p>
 
 ## :file_folder: Librerías a aplicar
