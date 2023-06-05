@@ -4,7 +4,7 @@
 
 
 
-## Descripción del proyecto
+## :star: Descripción del proyecto
 <p align="justify">
 Esta aplicación web se basará en una interfaz pragmática, sencilla de comprender y utilizar. Contaremos con un sistema de reconocimiento facial y asismismo funcionará tanto para imágenes como videos. El uso de deep learning nos ayudará a predecir e identificar los rostros.
 </p>
