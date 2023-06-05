@@ -84,7 +84,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 ## :bar_chart: Diagramas
 # []
     
-## :yt: Link del video
+## :tv: Link del video
 # []
     
 ## Grupo 2
