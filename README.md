@@ -37,11 +37,11 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 <p align="justify">
     Este estará divido en 7 puntos distintos, en los cuales se realizará este proyecto:
     
-        1. [Completar]
+        1. Uso de las librerías FLASK y FLASK-SQLALCHEMY en python, para poder conectarnos al servidor desde nuestro kocalchost y guardar todos los datos en nuestra base de datos (carpeta instance).
     
-        2. [Completar]
+        2. Creación del interfaz html, será el index de nuestro proyecto. Uso de css para crear un index llamativo (carpeta templates). El archivo script.js se encargará de mostrar la cámara del dipositivo por el cual se            reconocerá las emociones mediante nuestro algoritmo.
     
-        3. [Completar]
+        3. Nuestro archivo algoritmo.cpp ocupará las librerías UUID , openCV y TensorFlow para entrenar nuestro algoritmo, ambos trabajarán en conjunto y harán uso de Convolutional Neural Networks (CNN). 
     
         4. [Completar]
     
