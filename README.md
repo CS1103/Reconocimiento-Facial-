@@ -1,6 +1,6 @@
 # **Reconocimiento facial mediante emociones para registrar el horario de entrada y salida del personal.**
 
-![Face-guard](https://github.com/CS1103/proyecto-final---te02---202301-pf0220231-grupo2/assets/132113148/c336acc6-62c4-4d4b-b95f-73a9641fb75c)
+![FACE LOGO](https://github.com/CS1103/proyecto-final---te02---202301-pf0220231-grupo2/assets/132113148/fdd5866b-608b-4801-ab0b-370b76446133)
 
 
 
