@@ -39,7 +39,7 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
     
         4. TensorFlow recibirá todos los datos de entrenamiento (imágenes tanto de personas que deseemos reconocer y cada una con el gesto que indica una emoción).
     
-        5. [Completar]
+        5. OpenCV funciona como un detector facial, y es a tiempo real, con ayuda de TensorFlow no solo funcionará con imágenes, sino también con la cámara web del dispositvo.
     
         6. [Completar]
     
