@@ -35,7 +35,7 @@
             padding: 10px;
         }
         
-        #video-feed,#canvas {
+        #video-feed, #canvas {
             width: 100%;
             max-width: 400px;
             border: 1px solid #ccc;
@@ -87,7 +87,20 @@
         <p>&copy; 2023 - Reconocimiento Facial Grupo 2</p>
     </footer>
 
-    <script src="script.js"></script>
+    <script>
+        // Obtener el elemento de video y el lienzo del DOM
+        const videoElement = document.getElementById('video-feed');
+        const canvasElement = document.getElementById('canvas');
+
+        // Obtener acceso a la cámara y mostrar la transmisión de video en el elemento de video
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then((stream) => {
+                videoElement.srcObject = stream;
+            })
+            .catch((error) => {
+                console.error('Error al acceder a la cámara: ', error);
+            });
+    </script>
 </body>
 
 </html>
