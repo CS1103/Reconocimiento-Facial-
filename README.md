@@ -59,8 +59,16 @@ Esta aplicación web se basará en una interfaz pragmática, sencilla de compren
 2. Activa la ruta de tu env en la terminal con el siguiente código: .\env\Scripts\activate
 3. Ahora procederás a actualizar tu pip a la última versión (si es necesario) con el siguiente código: python.exe -m pip install --upgrade pip
 4. Procede a instalar todas las librerías.
-5. Para correr el programa, usarás el código con flask para conectarte al servidor: flask --app proyecto.py run
-6. Debes descargar opencv 4.8 : https://opencv.org/releases/ y cmake: https://cmake.org/download/, además de modificar tu archivo CMakeLists.txt para el correcto funcionamiento de opencv.
+5. Debes descargar opencv 4.8 : https://opencv.org/releases/ y cmake: https://cmake.org/download/, además de modificar tu archivo CMakeLists.txt para el correcto funcionamiento de opencv.
+6. Luego de haber descargado ambas partes deben editar sus variables de entorno del sistema, van a las variables del sistema y añaden las rutas donde instalaron opencv y cmake, en mi caso son:
+
+C:\Users\Godel\Documents\opencv\build\x64\vc16\bin
+
+C:\Users\Godel\Documents\opencv\build\x64\vc16\lib
+
+C:\Program Files\CMake\bin
+
+7. Configuras tu CMakeLists.txt para ocupar opencv en la versión que desees.
     
 ## :page_facing_up: Instrucciones o reglas de uso
  # Se ejecutará el archivo main para abrir la cámara web del dispositivo que estas ocupando, este capturará tu rostro y reconocerá la emoción según los gestos de tu rostro.
