@@ -72,15 +72,9 @@ C:\Program Files\CMake\bin
     
 ## :page_facing_up: Instrucciones o reglas de uso
  # Se ejecutará el archivo main para abrir la cámara web del dispositivo que estas ocupando, este capturará tu rostro y reconocerá la emoción según los gestos de tu rostro.
-
-## Licencia De Uso
-# []
-    
-## :bar_chart: Diagramas
-# []
     
 ## :tv: Link del video
-# []
+# https://www.youtube.com/watch?v=44-PHIaOvJo
 
 ## Bibliografía
 # [1] G. Solano, «Omes,» 07 jul 2023. [En línea]. Available: https://omes-va.com/reconocimiento-de-emociones-opencv-python/. [Último acceso: 31 ago 2022].
